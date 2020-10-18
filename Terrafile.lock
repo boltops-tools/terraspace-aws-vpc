@@ -1,0 +1,7 @@
+---
+vpc:
+  source: terraform-aws-modules/vpc/aws
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-vpc
+  sha: 30df090adc9d1a0d396551fd51ce11e780065b76
